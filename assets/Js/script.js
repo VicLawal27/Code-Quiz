@@ -80,3 +80,29 @@
         answer: "a. onclick"
     }
 ];
+
+/**
+ * VARIABLES
+ */
+
+//Timer Variables
+//Start Button Variables
+//Question Variables
+//Summary Variables
+//HighScore Variables
+//Misc. Variables
+
+/**
+ * FUNCTIONS
+ */
+
+// WHEN I click the start button, timer starts
+// then presented with questions and choices
+// after question is answered, show if correct or wrong
+// when all questions are answered or timer reaches 0, game over
+// enter initial and store highscore in local storage
+// function to show high scores
+
+/**
+ * ADD EVENT LISTENERS
+ */

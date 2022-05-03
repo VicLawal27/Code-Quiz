@@ -35,3 +35,9 @@ This is a timed coding quiz with multiple-choice questions. This app is written 
 * Bootstrap
 
 ## Demo
+![Code Quiz Demo](./assets/Images/Demo.gif)
+
+
+## Websites
+* Github: https://github.com/VicLawal27/Code-Quiz
+* Deployed: https://viclawal27.github.io/Code-Quiz/
